@@ -13,7 +13,7 @@ public class SpringwebApplication{
 
         /*for(String name : applicationContext.getBeanDefinitionNames()){
 			System.out.println(name);
-		}*/
+		}**/
     }
 
 }
