@@ -12,6 +12,8 @@ import javax.validation.Valid;
 import java.net.URI;
 import java.util.List;
 
+//HATEOAS : Hypermedia as engine of application state
+
 @RestController
 public class UserController{
 
